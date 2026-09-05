@@ -58,7 +58,7 @@ print(res)
 print(process_payout(res["payout_id"]))
 
 
-6. Notes
+7. Notes
 
 * All amounts are stored in paise (integer)
 * Balance is computed from ledger (not stored directly)
